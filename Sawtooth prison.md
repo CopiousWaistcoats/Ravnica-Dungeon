@@ -1,0 +1,1 @@
+Session 1 - summoned by note - met mysterious Vedalken outside

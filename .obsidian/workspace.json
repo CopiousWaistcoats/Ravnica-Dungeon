@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "ea4dcc9e4e88f341",
+    "type": "split",
+    "children": [
+      {
+        "id": "631abc75a8618244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64affb2262442bcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e8889d25b6fc088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Office of the Guild Pact.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c63dd0730a854c0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guild Pact.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9797f8daf9123997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sawtooth prison.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e2c22ca1dcc23c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0514d50d210a1ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nitt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05e048987c19bd98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tonerus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60fcc5029e9eefb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lawry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41c4037bd0798261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dossier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69ca1ecac633f597",
+    "type": "split",
+    "children": [
+      {
+        "id": "b30684a9d4704f2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5ae09012b0dbbfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b48aadd660f7e1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db8753a20b88e8a6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93207748ae200a83",
+    "type": "split",
+    "children": [
+      {
+        "id": "91f8a42d0d3049e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c3ce8632fe0ea15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3653dbdf70783faa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3609b67a5e63f675",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8087b6f5938dbc90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "64affb2262442bcf",
+  "lastOpenFiles": [
+    "Office of the Guild Pact.md",
+    "Dossier.md",
+    "Session 1.md",
+    "Guild Pact.md",
+    "Sawtooth prison.md",
+    "Map.md",
+    "Nitt.md",
+    "Tonerus.md",
+    "Philogones.md",
+    "Lawry.md"
+  ]
+}
