@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 1.md",
+                "file": "Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,9 +47,19 @@
             "id": "6e2c22ca1dcc23c2",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "275263762_1115210349244100_2818408667819769306_n.png"
+              }
+            }
+          },
+          {
+            "id": "9d933724a2b1f17a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Map.md",
+                "file": "Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,20 +100,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "41c4037bd0798261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dossier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -220,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e8889d25b6fc088",
+  "active": "9d933724a2b1f17a",
   "lastOpenFiles": [
+    "Dossier.md",
+    "Session 1.md",
+    "275263762_1115210349244100_2818408667819769306_n.png",
+    "Map.md",
+    "Wayfinder Club.md",
     "Philogones.md",
     "Office of the Guild Pact.md",
-    "Session 1.md",
     "Tonerus.md",
     "Lawry.md",
-    "Dossier.md",
-    "Guild Pact.md",
-    "Sawtooth prison.md",
-    "Map.md",
-    "Nitt.md"
+    "Guild Pact.md"
   ]
 }

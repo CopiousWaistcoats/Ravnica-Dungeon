@@ -31,9 +31,23 @@ Follow Goblin footprints - find some rats
 
 [[Philogones]] takes 8 damage from rats
 
+Continue through sewer, find bridge, ignore bridge.
 
-Initiative
-Robbie - 15
-Ross - 17
-David - 17
-Matthew - 23
+Small narrow passage off to the left - not sewer, hewn stone.
+- Crazy sewer lady in tunnel - "He's coming"
+- Mural of demonic creature
+
+End of sewer - exit foundry street precinct 6, by warehouse
+Tracks lead to warehouse door - Boros Sigil
+
+Single goblin on guard
+
+[[Nitt]] unconscious. Twice
+Two Goblins killed.
+Two more Goblins - killed
+Dock and warehouse set alight
+Whirring and clunking noises from warehouse
+[[Tonerus]] Unconcious.
+CLIFFHANGER
+
+
