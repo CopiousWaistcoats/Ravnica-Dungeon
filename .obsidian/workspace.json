@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64affb2262442bcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8e8889d25b6fc088",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Office of the Guild Pact.md",
+                "file": "Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -232,17 +220,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64affb2262442bcf",
+  "active": "8e8889d25b6fc088",
   "lastOpenFiles": [
+    "Philogones.md",
     "Office of the Guild Pact.md",
-    "Dossier.md",
     "Session 1.md",
+    "Tonerus.md",
+    "Lawry.md",
+    "Dossier.md",
     "Guild Pact.md",
     "Sawtooth prison.md",
     "Map.md",
-    "Nitt.md",
-    "Tonerus.md",
-    "Philogones.md",
-    "Lawry.md"
+    "Nitt.md"
   ]
 }
