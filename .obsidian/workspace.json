@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map.md",
+                "file": "Lore/Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guild Pact.md",
+                "file": "Lore/Guild Pact.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sawtooth prison.md",
+                "file": "Session 1/Sawtooth prison.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "275263762_1115210349244100_2818408667819769306_n.png"
+                "file": "Session 1/275263762_1115210349244100_2818408667819769306_n.png"
               }
             }
           },
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 1.md",
+                "file": "PCs/Lawry.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nitt.md",
+                "file": "PCs/Nitt.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tonerus.md",
+                "file": "PCs/Tonerus.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lawry.md",
+                "file": "PCs/Lawry.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 1.md",
+                "file": "PCs/Lawry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 1.md",
+                "file": "PCs/Lawry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 1.md"
+                "file": "PCs/Lawry.md"
               }
             }
           }
@@ -219,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d933724a2b1f17a",
+  "active": "e5ae09012b0dbbfa",
   "lastOpenFiles": [
-    "Dossier.md",
-    "Session 1.md",
-    "275263762_1115210349244100_2818408667819769306_n.png",
-    "Map.md",
+    "Lore/Guild Pact.md",
+    "Session 1/Session 1.md",
+    "Session 1/275263762_1115210349244100_2818408667819769306_n.png",
+    "Session 1/Dossier.md",
+    "Lore/Map.md",
     "Wayfinder Club.md",
-    "Philogones.md",
-    "Office of the Guild Pact.md",
-    "Tonerus.md",
-    "Lawry.md",
-    "Guild Pact.md"
+    "PCs/Philogones.md",
+    "Lore/Office of the Guild Pact.md",
+    "PCs/Tonerus.md",
+    "PCs/Lawry.md"
   ]
 }
